@@ -6,7 +6,7 @@ addLayer("p", {
         unlocked: true,
 		points: new Decimal(0),
     }},
-    color: "#F5DB77",
+    color: "#FFDB77",
     requires: new Decimal(10), // Can be a function that takes requirement increases into account
     resource: "Ticonderogas", // Name of prestige currency
     baseResource: "Floor Pencils", // Name of resource prestige is based on
@@ -28,5 +28,5 @@ addLayer("p", {
     upgrades: {
         11; {
           
-    }
+      }
     }
