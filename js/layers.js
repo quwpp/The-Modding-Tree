@@ -29,7 +29,7 @@ addLayer("p", {
     upgrades: {
         11: {
             title: "Get An Accomplice",
-            description: "Double Gain",
+            description: "Double Pencil Gain",
             cost: new Decimal(1),
-        },
+        }
     }
