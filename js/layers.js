@@ -28,5 +28,5 @@ addLayer("p", {
     upgrades: {
         11; {
           
-        }
+    }
     }
